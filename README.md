@@ -1,5 +1,10 @@
 # Customer Behaviour Analysis | SQL • Python • Power BI
 
+<img width="1849" height="994" alt="Screenshot 2026-05-10 121127" src="https://github.com/user-attachments/assets/c86f8d7f-e98c-40e8-af9a-f00a62138490" />
+
+## 🔗 Dashboard Link
+[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGIwODNhZWMtNWIyOC00MTQ2LTllN2ItZGVlNWUyOGU3NWY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 📌 Project Overview
 This project focuses on analyzing customer purchasing behavior to generate business insights related to revenue, customer segmentation, product performance, discounts, subscriptions, shipping preferences, and payment methods.
 
